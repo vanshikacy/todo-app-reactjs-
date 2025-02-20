@@ -33,18 +33,18 @@ The app will be available at http://localhost:5173/.
 4. Build for Production
 npm run build
 
-📌 How Data Persistence Works
+📌 How Data Persistence Works:
 The app stores the todos in Local Storage.
 When a new task is added, edited, or deleted, the changes are automatically saved.
 Even after refreshing the page, the data remains intact.
 
-🎯 What I Learned
+🎯 What I Learned:
 Using React hooks like useState and useEffect.
 Managing state efficiently.
 Handling user input and updating UI dynamically.
 Storing and retrieving data from Local Storage.
 
-🔥 Future Improvements
+🔥 Future Improvements:
 Add filters for completed and pending tasks.
 Implement a drag-and-drop reordering feature.
 Use a database (Firebase or Supabase) for cloud persistence.
