@@ -1,4 +1,4 @@
-# Todo List App (React + Vite)
+# Todo List App
 
 This is a simple **Todo List application** built using **React.js** and **Vite**.  
 It was created as a learning project to understand **React fundamentals**, state management, and how to persist data in a web app.
